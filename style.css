@@ -1,0 +1,26 @@
+.navbar{
+    background-color:black;
+    border-radius: 30px;
+    position: sticky;
+    top: 0;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 10px 5px;
+    
+}
+.navbar li a{
+    padding: 200px 200px;
+    text-decoration: none;
+    color: white;
+}
+#forbutton{
+    width: 1400px;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
